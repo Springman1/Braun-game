@@ -1,0 +1,5 @@
+W tym folderze należy umieścić pliki graficzne:
+- player.png - spritesheet gracza (32x48 pikseli)
+- platform.png - tekstura platformy
+- candle.png - grafika świeczki
+- extinguish.png - cząsteczka gaśnicy
